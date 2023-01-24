@@ -19,7 +19,7 @@
     "url": "https://github.com/niuware/mui-rte/issues"
   },
   "homepage": "https://github.com/niuware/mui-rte#readme",
-  "main": "index.js",
+  "main": "dist/MUIRichTextEditor.js",
   "scripts": {
     "serve": "cross-env webpack-dev-server --mode development",
     "build": "tsc",
